@@ -1,4 +1,4 @@
-﻿// SalesMasterPro.Entities/DTOs/ProductDTO.cs
+﻿
 using System;
 
 namespace PuntoVenta.Entidades.DTOs

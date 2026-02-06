@@ -1,10 +1,10 @@
-﻿\using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace PuntoVenta.Entidades
 {
-    /// <summary>
+    
     /// Representa un producto en el sistema de ventas
-    /// </summary>
+    
     public class Producto : EntidadBase
     {
         [Required(ErrorMessage = "El código es obligatorio")]
