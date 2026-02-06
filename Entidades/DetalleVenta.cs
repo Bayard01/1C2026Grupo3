@@ -1,5 +1,4 @@
 ﻿
-// SalesMasterPro.Entities/SaleDetail.cs
 
 namespace PuntoVenta.Entidades
 {
