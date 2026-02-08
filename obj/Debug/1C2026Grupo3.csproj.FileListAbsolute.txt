@@ -1,0 +1,10 @@
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\bin\Debug\1C2026Grupo3.exe.config
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\bin\Debug\1C2026Grupo3.exe
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\bin\Debug\1C2026Grupo3.pdb
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\obj\Debug\1C2026Grupo3.csproj.AssemblyReference.cache
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\obj\Debug\_1C2026Grupo3.Form1.resources
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\obj\Debug\_1C2026Grupo3.Properties.Resources.resources
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\obj\Debug\1C2026Grupo3.csproj.GenerateResource.cache
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\obj\Debug\1C2026Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\obj\Debug\1C2026Grupo3.exe
+C:\Users\josea\Documents\GitHub\1C2026Grupo3\obj\Debug\1C2026Grupo3.pdb

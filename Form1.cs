@@ -19,7 +19,7 @@ namespace _1C2026Grupo3
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            Button btn = new Button();
         }
     }
 }
